@@ -1,3 +1,5 @@
+This project is a proof-of-concept into the viability of having each node in a mesh to use 2 wireless communication technologies concurrently (Wi-Fi and LoRa), to allow for a choice of protocols based on payload requirements and network conditions.
+
 # 🧱 Dependencies
 
 Ensure the listed versions are installed, as there are breaking changes in the later versions, as of August 2024.
